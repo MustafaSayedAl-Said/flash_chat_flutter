@@ -18,3 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 # Preview
 
 ![Alt text](https://i.imgur.com/L7BjPRF.png)
+![Alt text](https://i.imgur.com/82Gx58H.png)
+![Alt text](https://i.imgur.com/Byy84VC.png)
